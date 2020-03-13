@@ -10,14 +10,14 @@ Download the Android SDK
 ------------------------
 
 Download and install the Android SDK from
-`developer.android.com <https://developer.android.com/studio/>`__.
+`developer.android.com <https://developer.android.com/studio/>`_.
 
 If you install Android Studio, you need to run it once to complete the SDK setup.
 
 Install OpenJDK or Oracle JDK
 -----------------------------
 
-Download and install  `OpenJDK <https://github.com/ojdkbuild/ojdkbuild>`__ or `Oracle JDK <http://www.oracle.com/technetwork/java/javase/downloads/index.html>`__. Versions below JDK 8 may not work; some users have reported issues with the jarsigner (used to sign the APKs) in JDK 7.
+Download and install  `OpenJDK <https://github.com/ojdkbuild/ojdkbuild>`_ or `Oracle JDK <http://www.oracle.com/technetwork/java/javase/downloads/index.html>`_. Versions below JDK 8 may not work; some users have reported issues with the jarsigner (used to sign the APKs) in JDK 7.
 
 If you install OpenJDK, choose ``1.8``. Don't choose the ``openjdk-jre`` files as that only contains the JRE, not the JDK which is required here.
 
@@ -34,7 +34,7 @@ the JDK can be used for this purpose::
 
     keytool -keyalg RSA -genkeypair -alias androiddebugkey -keypass android -keystore debug.keystore -storepass android -dname "CN=Android Debug,O=Android,C=US" -validity 9999
 
-This will create a ``debug.keystore`` file in your current directory. You should move it to a memorable location such as ``%USERPROFILE%\.android\``, because you will need its location in a later step. For more information on ``keytool`` usage, see `this Q&A article <https://godotengine.org/qa/21349/jdk-android-file-missing>`__.
+This will create a ``debug.keystore`` file in your current directory. You should move it to a memorable location such as ``%USERPROFILE%\.android\``, because you will need its location in a later step. For more information on ``keytool`` usage, see `this Q&A article <https://godotengine.org/qa/21349/jdk-android-file-missing>`_.
 
 Make sure you have adb
 ----------------------
@@ -102,7 +102,7 @@ keystore file; such file can be generated like this:
     keytool -v -genkey -v -keystore mygame.keystore -alias mygame -keyalg RSA -validity 10000
 
 This keystore and key are used to verify your developer identity, remember the password and keep it in a safe place!
-Use Google's Android Developer guides to learn more about `APK signing <https://developer.android.com/studio/publish/app-signing>`__.
+Use Google's Android Developer guides to learn more about `APK signing <https://developer.android.com/studio/publish/app-signing>`_.
 
 Now fill in the following forms in your Android Export Presets:
 
@@ -133,7 +133,7 @@ ARMv8 devices, but the opposite is not true.
 Since August 2019, Google Play requires all applications to be available in
 64-bit form. This means you cannot upload an APK that contains *just* an ARMv7
 library. To solve this, you can upload several APKs to Google Play using its
-`Multiple APK support <https://developer.android.com/google/play/publishing/multiple-apks>`__.
+`Multiple APK support <https://developer.android.com/google/play/publishing/multiple-apks>`_.
 Each APK should target a single architecture; creating an APK for ARMv7
 and ARMv8 is usually sufficient to cover most devices in use today.
 

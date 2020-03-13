@@ -18,9 +18,9 @@ data types. If not, refer to :ref:`doc_custom_modules_in_c++`.
 References
 ~~~~~~~~~~~
 
-- `Why does Godot use servers and RIDs? <https://godotengine.org/article/why-does-godot-use-servers-and-rids>`__
-- `Singleton pattern <https://en.wikipedia.org/wiki/Singleton_pattern>`__
-- `Mediator pattern <https://en.wikipedia.org/wiki/Mediator_pattern>`__
+- `Why does Godot use servers and RIDs? <https://godotengine.org/article/why-does-godot-use-servers-and-rids>`_
+- `Singleton pattern <https://en.wikipedia.org/wiki/Singleton_pattern>`_
+- `Mediator pattern <https://en.wikipedia.org/wiki/Mediator_pattern>`_
 
 What for?
 ---------
@@ -316,7 +316,7 @@ References
 ~~~~~~~~~~~
 
 - :ref:`RID<class_rid>`
-- `core/rid.h <https://github.com/godotengine/godot/blob/master/core/rid.h>`__
+- `core/rid.h <https://github.com/godotengine/godot/blob/master/core/rid.h>`_
 
 Registering the class in GDScript
 ---------------------------------
@@ -373,7 +373,7 @@ is used to register the dummy class in GDScript.
 	void register_hilbert_hotel_types();
 	void unregister_hilbert_hotel_types();
 
-- `servers/register_server_types.cpp <https://github.com/godotengine/godot/blob/master/servers/register_server_types.cpp>`__
+- `servers/register_server_types.cpp <https://github.com/godotengine/godot/blob/master/servers/register_server_types.cpp>`_
 
 Bind methods
 ~~~~~~~~~~~~
@@ -474,7 +474,7 @@ to execute the desired behavior. The queue will be flushed whenever either
 References:
 ~~~~~~~~~~~
 
-- `core/message_queue.cpp <https://github.com/godotengine/godot/blob/master/core/message_queue.cpp>`__
+- `core/message_queue.cpp <https://github.com/godotengine/godot/blob/master/core/message_queue.cpp>`_
 
 Summing it up
 -------------
@@ -505,5 +505,5 @@ Here is the GDScript sample code:
 Notes
 ~~~~~
 
-- The actual `Hilbert Hotel <https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel>`__ is impossible.
+- The actual `Hilbert Hotel <https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel>`_ is impossible.
 - Connecting signal example code is pretty hacky.

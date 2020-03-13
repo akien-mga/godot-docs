@@ -277,17 +277,17 @@ I don't know what this method does!
 
 No problem. Leave it behind, and list the methods you skipped when you request a pull of your changes. Another writer will take care of it.
 
-You can still have a look at the methods' implementation in Godot's source code on GitHub. Also, if you have doubts, feel free to ask on the `Q&A website <https://godotengine.org/qa/>`__ and on IRC (freenode, #godotengine).
+You can still have a look at the methods' implementation in Godot's source code on GitHub. Also, if you have doubts, feel free to ask on the `Q&A website <https://godotengine.org/qa/>`_ and on IRC (freenode, #godotengine).
 
 
 Localization
 ~~~~~~~~~~~~
 
 The documentation can be translated in any language on `Hosted Weblate
-<https://hosted.weblate.org/projects/godot-engine/godot-docs/>`__.
+<https://hosted.weblate.org/projects/godot-engine/godot-docs/>`_.
 
 Translated strings are synced manually by documentation maintainers in
-the `godot-docs-l10n <https://github.com/godotengine/godot-docs-l10n>`__
+the `godot-docs-l10n <https://github.com/godotengine/godot-docs-l10n>`_
 repository.
 
 Languages with a good level of completion have their own localized

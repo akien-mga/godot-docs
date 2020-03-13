@@ -9,7 +9,7 @@ the final web presentation and behavior. The path to the custom HTML page is
 specified in the export options as ``Html/Custom Html Shell``.
 
 The default HTML page is available in the Godot Engine repository at
-`/misc/dist/html/full-size.html <https://github.com/godotengine/godot/blob/master/misc/dist/html/full-size.html>`__.
+`/misc/dist/html/full-size.html <https://github.com/godotengine/godot/blob/master/misc/dist/html/full-size.html>`_.
 Some simple use-cases where customizing the default page is useful include:
 
  - Loading files from a different directory
@@ -20,7 +20,7 @@ Some simple use-cases where customizing the default page is useful include:
    the file system later
  - Passing custom "command line" arguments, e.g. ``-s`` to start a MainLoop script
 
-Another sample HTML page is available at `/misc/dist/html/fixed-size.html <https://github.com/godotengine/godot/blob/master/misc/dist/html/fixed-size.html>`__.
+Another sample HTML page is available at `/misc/dist/html/fixed-size.html <https://github.com/godotengine/godot/blob/master/misc/dist/html/fixed-size.html>`_.
 This page uses a fixed size canvas with an output widget below. However, the
 F12 browser console should be preferred as it can display additional
 information, such as WebGL errors.
@@ -64,7 +64,7 @@ The ``Engine`` object
 The JavaScript global object ``Engine`` is defined by ``$GODOT_BASENAME.js``
 and serves as an interface to the engine start-up process.
 
-The API is based on and requires basic understanding of `Promises <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises>`__.
+The API is based on and requires basic understanding of `Promises <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises>`_.
 
 The object itself has only the following methods:
 

@@ -34,7 +34,7 @@ directly to wchar_t.
 References:
 ~~~~~~~~~~~
 
--  `core/typedefs.h <https://github.com/godotengine/godot/blob/master/core/typedefs.h>`__
+-  `core/typedefs.h <https://github.com/godotengine/godot/blob/master/core/typedefs.h>`_
 
 Memory model
 ------------
@@ -131,8 +131,8 @@ large amount of accesses.
 References:
 ~~~~~~~~~~~
 
--  `core/os/memory.h <https://github.com/godotengine/godot/blob/master/core/os/memory.h>`__
--  `core/pool_vector.h <https://github.com/godotengine/godot/blob/master/core/pool_vector.cpp>`__
+-  `core/os/memory.h <https://github.com/godotengine/godot/blob/master/core/os/memory.h>`_
+-  `core/pool_vector.h <https://github.com/godotengine/godot/blob/master/core/pool_vector.cpp>`_
 
 Containers
 ----------
@@ -165,10 +165,10 @@ The Vector<> class also has a few nice features:
 References:
 ~~~~~~~~~~~
 
--  `core/vector.h <https://github.com/godotengine/godot/blob/master/core/vector.h>`__
--  `core/list.h <https://github.com/godotengine/godot/blob/master/core/list.h>`__
--  `core/set.h <https://github.com/godotengine/godot/blob/master/core/set.h>`__
--  `core/map.h <https://github.com/godotengine/godot/blob/master/core/map.h>`__
+-  `core/vector.h <https://github.com/godotengine/godot/blob/master/core/vector.h>`_
+-  `core/list.h <https://github.com/godotengine/godot/blob/master/core/list.h>`_
+-  `core/set.h <https://github.com/godotengine/godot/blob/master/core/set.h>`_
+-  `core/map.h <https://github.com/godotengine/godot/blob/master/core/map.h>`_
 
 String
 ------
@@ -181,7 +181,7 @@ conversion and visualization.
 References:
 ~~~~~~~~~~~
 
--  `core/ustring.h <https://github.com/godotengine/godot/blob/master/core/ustring.h>`__
+-  `core/ustring.h <https://github.com/godotengine/godot/blob/master/core/ustring.h>`_
 
 StringName
 ----------
@@ -197,7 +197,7 @@ is fast.
 References:
 ~~~~~~~~~~~
 
--  `core/string_name.h <https://github.com/godotengine/godot/blob/master/core/string_name.h>`__
+-  `core/string_name.h <https://github.com/godotengine/godot/blob/master/core/string_name.h>`_
 
 Math types
 ----------
@@ -208,7 +208,7 @@ directory.
 References:
 ~~~~~~~~~~~
 
--  `core/math <https://github.com/godotengine/godot/tree/master/core/math>`__
+-  `core/math <https://github.com/godotengine/godot/tree/master/core/math>`_
 
 NodePath
 --------
@@ -219,7 +219,7 @@ referencing them fast.
 References:
 ~~~~~~~~~~~
 
--  `core/node_path.h <https://github.com/godotengine/godot/blob/master/core/node_path.h>`__
+-  `core/node_path.h <https://github.com/godotengine/godot/blob/master/core/node_path.h>`_
 
 RID
 ---
@@ -232,4 +232,4 @@ referenced data.
 References:
 ~~~~~~~~~~~
 
--  `core/rid.h <https://github.com/godotengine/godot/blob/master/core/rid.h>`__
+-  `core/rid.h <https://github.com/godotengine/godot/blob/master/core/rid.h>`_

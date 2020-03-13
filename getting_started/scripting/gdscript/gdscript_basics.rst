@@ -16,14 +16,14 @@ flexibility for content creation and integration.
 History
 ~~~~~~~
 
-In the early days, the engine used the `Lua <https://www.lua.org>`__
+In the early days, the engine used the `Lua <https://www.lua.org>`_
 scripting language. Lua is fast, but creating bindings to an object
 oriented system (by using fallbacks) was complex and slow and took an
 enormous amount of code. After some experiments with
-`Python <https://www.python.org>`__, it also proved difficult to embed.
+`Python <https://www.python.org>`_, it also proved difficult to embed.
 
 The last third party scripting language that was used for shipped games
-was `Squirrel <http://squirrel-lang.org>`__, but it was dropped as well.
+was `Squirrel <http://squirrel-lang.org>`_, but it was dropped as well.
 At that point, it became evident that a custom scripting language could
 more optimally make use of Godot's particular architecture:
 

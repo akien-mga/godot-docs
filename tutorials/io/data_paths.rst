@@ -70,12 +70,12 @@ on the platform. By default, these paths are:
   when Godot is closed.
 
 Godot complies with the `XDG Base Directory Specification
-<https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html>`__
+<https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html>`_
 on all platforms. Environment variables can be overridden as per
 the specification to change the editor (and project) data paths.
 
 .. note:: If you use
-          `Godot packaged as a Flatpak <https://flathub.org/apps/details/org.godotengine.Godot>`__,
+          `Godot packaged as a Flatpak <https://flathub.org/apps/details/org.godotengine.Godot>`_,
           the editor data paths will be located in subfolders in
           ``~/.var/app/org.godotengine.Godot/``.
 
@@ -88,5 +88,5 @@ write all user data to a directory named ``editor_data/`` in the same directory
 as the editor binary. This is useful to create a "portable" installation,
 which can then be placed on an USB drive.
 
-The `Steam release of Godot <https://store.steampowered.com/app/404790/>`__
+The `Steam release of Godot <https://store.steampowered.com/app/404790/>`_
 uses self-contained mode by default.

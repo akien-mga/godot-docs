@@ -95,4 +95,4 @@ If icons don't appear in the editor make sure that:
 References:
 ~~~~~~~~~~~
 
--  `editor/icons <https://github.com/godotengine/godot/tree/master/editor/icons>`__
+-  `editor/icons <https://github.com/godotengine/godot/tree/master/editor/icons>`_

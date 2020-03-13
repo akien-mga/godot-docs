@@ -73,7 +73,7 @@ the ability to hot-reload locally and on remote devices, etc.
 The goal is to offer a full package to create games and a continuous
 user experience. You can still work with external programs as long as
 there is an import plugin for it. Or you can create one, like the `Tiled
-Map Importer <https://github.com/vnen/godot-tiled-importer>`__.
+Map Importer <https://github.com/vnen/godot-tiled-importer>`_.
 
 That is also partly why Godot offers its own programming languages
 GDscript and VisualScript, along with C#. They’re designed for the needs

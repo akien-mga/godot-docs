@@ -30,7 +30,7 @@ This makes Objects gain a lot of functionality, like for example
 References:
 ~~~~~~~~~~~
 
--  `core/object.h <https://github.com/godotengine/godot/blob/master/core/object.h>`__
+-  `core/object.h <https://github.com/godotengine/godot/blob/master/core/object.h>`_
 
 Registering an Object
 ---------------------
@@ -88,7 +88,7 @@ string passing the name can be passed for brevity.
 References:
 ~~~~~~~~~~~
 
--  `core/class_db.h <https://github.com/godotengine/godot/blob/master/core/class_db.h>`__
+-  `core/class_db.h <https://github.com/godotengine/godot/blob/master/core/class_db.h>`_
 
 Constants
 ---------
@@ -250,7 +250,7 @@ templates point to it.
 References:
 ~~~~~~~~~~~
 
--  `core/reference.h <https://github.com/godotengine/godot/blob/master/core/reference.h>`__
+-  `core/reference.h <https://github.com/godotengine/godot/blob/master/core/reference.h>`_
 
 Resources:
 ----------
@@ -266,7 +266,7 @@ Resources without a path are fine too.
 References:
 ~~~~~~~~~~~
 
--  `core/resource.h <https://github.com/godotengine/godot/blob/master/core/resource.h>`__
+-  `core/resource.h <https://github.com/godotengine/godot/blob/master/core/resource.h>`_
 
 Resource loading
 ----------------
@@ -287,7 +287,7 @@ the same time.
 References:
 ~~~~~~~~~~~
 
--  `core/io/resource_loader.h <https://github.com/godotengine/godot/blob/master/core/io/resource_loader.h>`__
+-  `core/io/resource_loader.h <https://github.com/godotengine/godot/blob/master/core/io/resource_loader.h>`_
 
 Resource saving
 ---------------
@@ -306,4 +306,4 @@ be bundled with the saved resource and assigned sub-IDs, like
 References:
 ~~~~~~~~~~~
 
--  `core/io/resource_saver.h <https://github.com/godotengine/godot/blob/master/core/io/resource_saver.h>`__
+-  `core/io/resource_saver.h <https://github.com/godotengine/godot/blob/master/core/io/resource_saver.h>`_

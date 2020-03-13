@@ -13,7 +13,7 @@ Requirements
    :ref:`doc_compiling_for_windows` about the caveats of installing it
    and the various prompts.
 -  Windows 10 SDK (can be selected in Visual Studio installation).
--  `ANGLE source <https://github.com/Microsoft/angle>`__. Use the
+-  `ANGLE source <https://github.com/Microsoft/angle>`_. Use the
    ``ms_master`` (default) branch. Keep it in a path without spaces to
    avoid problems.
 
@@ -21,7 +21,7 @@ Requirements
           ``ms_master`` branch has been cleared out.
           
           As a temporary workaround however, it is still possible to
-          download an older state of the source code via commit `c61d048 <https://github.com/microsoft/angle/tree/c61d0488abd9663e0d4d2450db7345baa2c0dfb6>`__.
+          download an older state of the source code via commit `c61d048 <https://github.com/microsoft/angle/tree/c61d0488abd9663e0d4d2450db7345baa2c0dfb6>`_.
           
           This page will eventually be updated in the future to reflect
           the new build instructions.

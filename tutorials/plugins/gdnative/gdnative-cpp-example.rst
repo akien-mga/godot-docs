@@ -22,7 +22,7 @@ to use the 3.0 branch and the NativeScript 1.0 syntax. We'll be showing them
 side by side in this writeup.
 
 You can download the full example we'll be creating in this tutorial `on
-GitHub <https://github.com/BastiaanOlij/gdnative_cpp_example>`__.
+GitHub <https://github.com/BastiaanOlij/gdnative_cpp_example>`_.
 
 Setting up the project
 ----------------------
@@ -33,7 +33,7 @@ There are a few prerequisites you'll need:
 - a C++ compiler,
 - SCons as a build tool,
 - a copy of the `godot-cpp
-  repository <https://github.com/GodotNativeTools/godot-cpp>`__.
+  repository <https://github.com/GodotNativeTools/godot-cpp>`_.
 
 See also :ref:`Compiling <toc-devel-compiling>` as the build tools are identical
 to the ones you need to compile Godot from source.

@@ -47,7 +47,7 @@ Install a JDK
 
 The Android SDK doesn't come with Java, so it needs to be installed manually.
 You need to install a Java SDK (**not** just the runtime or JRE).
-`OpenJDK 8 <https://adoptopenjdk.net/index.html>`__ is recommended.
+`OpenJDK 8 <https://adoptopenjdk.net/index.html>`_ is recommended.
 Oracle JDK 8 should also work. Later versions may not work for
 Android development.
 
@@ -263,7 +263,7 @@ When setting up the Android project in the **Project > Export** dialog,
 .. image:: img/custom_build_enable.png
 
 From now on, attempting to export the project or one-click deploy will call the
-`Gradle <https://gradle.org/>`__ build system to generate fresh templates (this
+`Gradle <https://gradle.org/>`_ build system to generate fresh templates (this
 window will appear every time):
 
 .. image:: img/custom_build_gradle.png

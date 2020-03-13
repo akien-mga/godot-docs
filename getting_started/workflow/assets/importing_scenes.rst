@@ -31,7 +31,7 @@ Exporting DAE files from Maya and 3DS Max
 Autodesk added built-in COLLADA support to Maya and 3DS Max, but it's
 broken by default and should not be used. The best way to export this format
 is by using the
-`OpenCollada <https://github.com/KhronosGroup/OpenCOLLADA/wiki/OpenCOLLADA-Tools>`__
+`OpenCollada <https://github.com/KhronosGroup/OpenCOLLADA/wiki/OpenCOLLADA-Tools>`_
 plugins. They work well, although they are not always up-to date
 with the latest version of the software.
 
@@ -67,11 +67,11 @@ Exporting ESCN files from Blender
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The most powerful one, called `godot-blender-exporter
-<https://github.com/godotengine/godot-blender-exporter>`__.
+<https://github.com/godotengine/godot-blender-exporter>`_.
 It uses a .escn file, which is kind of another name for a .tscn file (Godot scene file);
 it keeps as much information as possible from a Blender scene.
 
-The ESCN exporter has a detailed `document <escn_exporter/index.html>`__ describing
+The ESCN exporter has a detailed `document <escn_exporter/index.html>`_ describing
 its functionality and usage.
 
 Import workflows

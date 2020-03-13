@@ -31,7 +31,7 @@ not obvious which name changes what (especially from code), but several
 tools are provided. The ultimate place to look at what each theme option
 is for each control, which will always be more up to date than any
 documentation, is the file `scene/resources/default_theme/default_theme.cpp
-<https://github.com/godotengine/godot/blob/master/scene/resources/default_theme/default_theme.cpp>`__.
+<https://github.com/godotengine/godot/blob/master/scene/resources/default_theme/default_theme.cpp>`_.
 The rest of this document will explain the different tools used to
 customize the theme.
 

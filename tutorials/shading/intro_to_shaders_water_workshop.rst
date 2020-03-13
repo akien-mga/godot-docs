@@ -16,20 +16,20 @@ Watch the tutorials
 
 .. figure:: img/intro_to_shaders_water_thumbnail.png
 
-You can watch the `full playlist on YouTube <https://www.youtube.com/watch?v=xoyk_A0RSpI&list=PLhqJJNjsQ7KHqNMYmTwtsYTeTrqrRP_fP>`__. Here are the individual videos:
+You can watch the `full playlist on YouTube <https://www.youtube.com/watch?v=xoyk_A0RSpI&list=PLhqJJNjsQ7KHqNMYmTwtsYTeTrqrRP_fP>`_. Here are the individual videos:
 
--  `Intro to Shader Programming <https://www.youtube.com/watch?v=xoyk_A0RSpI>`__
+-  `Intro to Shader Programming <https://www.youtube.com/watch?v=xoyk_A0RSpI>`_
 -  `Animated Water and UV
-   Coordinates <https://www.youtube.com/watch?v=U91nqeUe1qQ>`__
--  `Water in 3D <https://www.youtube.com/watch?v=vm9Sdvhq6ho>`__
+   Coordinates <https://www.youtube.com/watch?v=U91nqeUe1qQ>`_
+-  `Water in 3D <https://www.youtube.com/watch?v=vm9Sdvhq6ho>`_
 -  `Texture-based
-   Deformation <https://www.youtube.com/watch?v=Pg79tztNZeA>`__
+   Deformation <https://www.youtube.com/watch?v=Pg79tztNZeA>`_
 -  `Merging the Two Waves
-   Together <https://www.youtube.com/watch?v=aC5Yzx7tS74>`__
+   Together <https://www.youtube.com/watch?v=aC5Yzx7tS74>`_
 -  `Functions in
-   ShaderScript <https://www.youtube.com/watch?v=1eNWPbfph1E>`__
+   ShaderScript <https://www.youtube.com/watch?v=1eNWPbfph1E>`_
 -  `Water Shadow and
-   Masking <https://www.youtube.com/watch?v=Xqv7C9mVhak>`__
+   Masking <https://www.youtube.com/watch?v=Xqv7C9mVhak>`_
 
 Download the source code
 ------------------------

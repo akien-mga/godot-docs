@@ -5,7 +5,7 @@ Exporting for the Web
 
 HTML5 export allows publishing games made in Godot Engine to the browser.
 This requires support for `WebAssembly
-<https://webassembly.org/>`__ and `WebGL <https://www.khronos.org/webgl/>`__
+<https://webassembly.org/>`_ and `WebGL <https://www.khronos.org/webgl/>`_
 in the user's browser.
 
 .. important:: Use the browser-integrated developer console, usually opened
@@ -77,7 +77,7 @@ Chrome restricts how websites may play audio. It may be necessary for the
 player to click or tap or press a key to enable audio.
 
 .. seealso:: Google offers additional information about their `Web Audio autoplay
-             policies <https://sites.google.com/a/chromium.org/dev/audio-video/autoplay>`__.
+             policies <https://sites.google.com/a/chromium.org/dev/audio-video/autoplay>`_.
 
 :ref:`class_HTTPClient` and :ref:`class_HTTPRequest`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -89,7 +89,7 @@ The HTTP classes have several restrictions on the HTML5 platform:
  -  Cannot progress more than once per frame, so polling in a loop will freeze
  -  No chunked responses
  -  Host verification cannot be disabled
- -  Subject to `same-origin policy <https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy>`__
+ -  Subject to `same-origin policy <https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy>`_
 
 Exported ``.html`` file must not be reused
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -116,7 +116,7 @@ The following functionality is currently unavailable on the HTML5 platform:
  -  Networking other than :ref:`class_HTTPClient` and :ref:`class_WebSocketClient`
 
 .. tip:: Check the `list of open HTML5 issues on Github
-         <https://github.com/godotengine/godot/issues?q=is:open+is:issue+label:platform:html5>`__
+         <https://github.com/godotengine/godot/issues?q=is:open+is:issue+label:platform:html5>`_
          to see if the functionality you're interested in has an issue yet. If
          not, open one to communicate your interest.
 
