@@ -31,6 +31,8 @@ community-driven 2D and 3D game engine! If you are new to this documentation,
 we recommend that you read the :ref:`introduction page <doc_about_intro>` to
 get an overview of what this documentation has to offer.
 
+This is a link to :api:`class_node` and another one to :api:`Some Page <class_node_method_set_name>`.
+
 The table of contents below and in the sidebar should let you easily access the
 documentation for your topic of interest. You can also use the search function
 in the top left corner.
